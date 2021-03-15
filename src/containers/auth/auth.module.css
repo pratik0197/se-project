@@ -1,0 +1,9 @@
+.Auth{
+    text-align: center;
+    color: blue;
+    position: relative;
+    top: 300px;
+    border-style: groove;   
+    display: inline-block;
+    left: 600px;
+}

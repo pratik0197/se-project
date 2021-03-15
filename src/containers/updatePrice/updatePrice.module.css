@@ -1,0 +1,11 @@
+.UpdatePrice{
+    text-align: center;
+    border-style: groove;
+    display: inline-block;
+    position: relative;
+    top: 300px;
+}
+
+label{
+    padding-right: 20px;
+}
